@@ -1,5 +1,5 @@
-# HeatherNelson1.github.io
-Portfolio Landing
+HeatherNelson1.github.io
+
 # Heather Nelson
 Welcome to my personal portfolio! I’m a recent graduate with a BS in Software Engineering and 15 years healthcare experience.
 
