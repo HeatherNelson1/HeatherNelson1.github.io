@@ -1,4 +1,4 @@
-HeatherNelson1.github.io
+[HeatherNelson1.github.io](https://github.com/HeatherNelson1)
 
 # Heather Nelson
 Welcome to my personal portfolio! I’m a recent graduate with a BS in Software Engineering and 15 years healthcare experience.
